@@ -1,0 +1,685 @@
+{
+  "analysis_metadata": {
+    "total_conversations": 50,
+    "total_user_messages": 128,
+    "analysis_timestamp": "2026-02-05T08:03:17.056501",
+    "clustering_method": "KMeans with SentenceTransformer embeddings",
+    "embedding_model": "all-MiniLM-L6-v2"
+  },
+  "user_satisfaction": {
+    "user_satisfaction_index": 0.24530631086686458,
+    "conversation_satisfaction": [
+      {
+        "chat_id": "ea704b7e-ec5e-4ec2-9a35-1957b8625c6a",
+        "satisfaction_score": 0.677328310906887,
+        "message_count": 8,
+        "positive_messages": 5,
+        "negative_messages": 3
+      },
+      {
+        "chat_id": "a2016c77-33c9-4bdf-9c14-90a70db60e5b",
+        "satisfaction_score": 0.0007188916206359863,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "c3cf0563-48e0-4f59-aaea-93ac5bb352e5",
+        "satisfaction_score": 0.8643162846565247,
+        "message_count": 1,
+        "positive_messages": 1,
+        "negative_messages": 0
+      },
+      {
+        "chat_id": "3f7a0525-ce67-4919-acb3-08cbfa79d074",
+        "satisfaction_score": 0.987405002117157,
+        "message_count": 2,
+        "positive_messages": 2,
+        "negative_messages": 0
+      },
+      {
+        "chat_id": "44312dfa-b552-44a9-b714-f90d6bba9644",
+        "satisfaction_score": 0.5029364228248596,
+        "message_count": 2,
+        "positive_messages": 1,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "e904d6f7-f64a-42dd-b1a3-8973f84b0cc9",
+        "satisfaction_score": 0.4987614154815674,
+        "message_count": 2,
+        "positive_messages": 1,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "d813e415-654d-41a8-96ad-582e8c512ab7",
+        "satisfaction_score": 0.21101761609315872,
+        "message_count": 8,
+        "positive_messages": 2,
+        "negative_messages": 6
+      },
+      {
+        "chat_id": "a1b743af-841d-49c5-8782-d9e615821add",
+        "satisfaction_score": 0.5965734720230103,
+        "message_count": 5,
+        "positive_messages": 3,
+        "negative_messages": 2
+      },
+      {
+        "chat_id": "431f0827-7334-4b7b-9231-6eacd461eda2",
+        "satisfaction_score": 0.13793970238078723,
+        "message_count": 11,
+        "positive_messages": 1,
+        "negative_messages": 10
+      },
+      {
+        "chat_id": "00b1e9c3-9183-48d3-aa20-bc201fc2fab7",
+        "satisfaction_score": 0.2040740132331848,
+        "message_count": 5,
+        "positive_messages": 1,
+        "negative_messages": 4
+      },
+      {
+        "chat_id": "5ebc21f6-dc2d-417d-bf06-1a868ffdf05a",
+        "satisfaction_score": 0.011786878108978271,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "4bdfdcc5-0c4d-489b-b19b-d3059055e14c",
+        "satisfaction_score": 0.048348029454549156,
+        "message_count": 3,
+        "positive_messages": 0,
+        "negative_messages": 3
+      },
+      {
+        "chat_id": "1fe55c4f-f604-4e7e-a8f0-56dd89816eef",
+        "satisfaction_score": 0.001583695411682129,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "fa7cb162-e8e9-478a-a4b6-040d5f544a72",
+        "satisfaction_score": 0.1435708999633789,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "8c30a490-1b0a-4a5f-9542-211fb5b7010b",
+        "satisfaction_score": 0.02209419012069702,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "0306c6f9-1ffe-40f0-9d35-325759510505",
+        "satisfaction_score": 0.01362822949886322,
+        "message_count": 4,
+        "positive_messages": 0,
+        "negative_messages": 4
+      },
+      {
+        "chat_id": "095e27c0-9f43-4c46-b6ba-8aa81c22aabf",
+        "satisfaction_score": 0.37446175813674926,
+        "message_count": 5,
+        "positive_messages": 2,
+        "negative_messages": 3
+      },
+      {
+        "chat_id": "96b83a20-dfc9-4911-bae0-49c1d6068402",
+        "satisfaction_score": 0.9507988095283508,
+        "message_count": 3,
+        "positive_messages": 3,
+        "negative_messages": 0
+      },
+      {
+        "chat_id": "318efe9f-e13a-4840-b9b0-10a68c60986a",
+        "satisfaction_score": 0.06859207153320312,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "b5308d4a-3f32-4e49-a70e-fc83f4c40248",
+        "satisfaction_score": 0.003854990005493164,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "03a29b14-2d6a-4d9e-861e-f42692f5937f",
+        "satisfaction_score": 0.003854990005493164,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "b27d23c4-ce05-49e5-8527-4c5cf6d1d9bc",
+        "satisfaction_score": 0.34612393379211426,
+        "message_count": 3,
+        "positive_messages": 1,
+        "negative_messages": 2
+      },
+      {
+        "chat_id": "5a2bc78d-c6ad-448e-8d21-06fe7cf841d7",
+        "satisfaction_score": 0.12888556718826294,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "fa024888-d1dc-44e4-8d41-f6171e130093",
+        "satisfaction_score": 0.12888556718826294,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "4748cbef-c16b-4eb6-b780-08c4a192dec0",
+        "satisfaction_score": 0.08426117897033691,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "04054d3b-e805-446d-b83c-153a945d8f48",
+        "satisfaction_score": 0.08426117897033691,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "44c3ae47-39b1-494e-b58c-1c8da87ee39e",
+        "satisfaction_score": 0.009491562843322754,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "c7875099-76e2-40f6-b9d9-670b453df00c",
+        "satisfaction_score": 0.9964572787284851,
+        "message_count": 1,
+        "positive_messages": 1,
+        "negative_messages": 0
+      },
+      {
+        "chat_id": "d03270ce-f32e-481c-b51d-8dc1571f7fb9",
+        "satisfaction_score": 0.009491562843322754,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "fcda0aa6-6c6f-4267-946b-12aa3d8e2f27",
+        "satisfaction_score": 0.01700037717819214,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "7621bf45-8000-4dbf-9f35-3c208552a969",
+        "satisfaction_score": 0.009491562843322754,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "9a6dddca-ac0d-4d42-bf50-4a8430b5383a",
+        "satisfaction_score": 0.40077427625656126,
+        "message_count": 5,
+        "positive_messages": 2,
+        "negative_messages": 3
+      },
+      {
+        "chat_id": "7bb5fad6-df7a-46f7-9902-10b0fe3657d1",
+        "satisfaction_score": 0.9981681108474731,
+        "message_count": 1,
+        "positive_messages": 1,
+        "negative_messages": 0
+      },
+      {
+        "chat_id": "217ad9ea-1f0e-4d55-b0a4-e132046ae8ca",
+        "satisfaction_score": 0.010710835456848145,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "eabb22e2-9631-4699-8843-fbee51550b0a",
+        "satisfaction_score": 0.010710835456848145,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "841b59d9-9d6c-4bad-9943-9e88131919a0",
+        "satisfaction_score": 0.010710835456848145,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "13730c6e-94be-4ffb-bd80-86ef200b45eb",
+        "satisfaction_score": 0.9874327778816223,
+        "message_count": 1,
+        "positive_messages": 1,
+        "negative_messages": 0
+      },
+      {
+        "chat_id": "60cd129f-8f53-4d5d-813b-6a29b464a9cb",
+        "satisfaction_score": 0.44336029556062484,
+        "message_count": 9,
+        "positive_messages": 4,
+        "negative_messages": 5
+      },
+      {
+        "chat_id": "17fdba2b-706c-4f21-b403-75e394eb71f1",
+        "satisfaction_score": 0.07228446006774902,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "1198fac4-be50-42e2-82a8-e128626d4567",
+        "satisfaction_score": 0.006774246692657471,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "d342c4ff-832f-4749-877e-4b96b45357d8",
+        "satisfaction_score": 0.006774246692657471,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "0373ef69-087e-466b-8a4e-739a1cc9d203",
+        "satisfaction_score": 0.006774246692657471,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "0e0eb60e-4c2f-451a-b2ef-78a71a1ee21d",
+        "satisfaction_score": 0.15282641465847308,
+        "message_count": 13,
+        "positive_messages": 2,
+        "negative_messages": 11
+      },
+      {
+        "chat_id": "83952f11-e683-4b77-9caa-888638e13856",
+        "satisfaction_score": 0.13789856433868408,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "b929907d-ba74-48c6-aa4e-d8b0d4f002f1",
+        "satisfaction_score": 0.004856705665588379,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "eb6b3651-675f-40db-8685-a2e0c1689379",
+        "satisfaction_score": 0.01270902156829834,
+        "message_count": 2,
+        "positive_messages": 0,
+        "negative_messages": 2
+      },
+      {
+        "chat_id": "37da5fe5-fb02-4fe4-b0cd-10862550d9ff",
+        "satisfaction_score": 0.29671865701675415,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "2e95e3c1-f8e7-46ef-ba2e-2bcb16c0e062",
+        "satisfaction_score": 0.5540015697479248,
+        "message_count": 4,
+        "positive_messages": 2,
+        "negative_messages": 2
+      },
+      {
+        "chat_id": "cbd24d0e-5828-4841-a6df-a5f9929670be",
+        "satisfaction_score": 0.009310364723205566,
+        "message_count": 1,
+        "positive_messages": 0,
+        "negative_messages": 1
+      },
+      {
+        "chat_id": "34e8f762-7944-4551-901f-ca168da9dc97",
+        "satisfaction_score": 0.004523634910583496,
+        "message_count": 3,
+        "positive_messages": 0,
+        "negative_messages": 3
+      }
+    ],
+    "satisfaction_levels": {
+      "high_satisfaction": 6,
+      "medium_satisfaction": 7,
+      "low_satisfaction": 37
+    },
+    "sentiment_distribution": {
+      "POSITIVE": 36,
+      "NEGATIVE": 92
+    },
+    "total_messages_analyzed": 128
+  },
+  "topic_clusters": {
+    "topic_3": {
+      "conversation_count": 12,
+      "percentage": 24.0,
+      "keywords": [
+        "ai",
+        "make",
+        "snoring",
+        "\u062f\u0648\u0646",
+        "section"
+      ],
+      "sample_conversations": [
+        "ea704b7e-ec5e-4ec2-9a35-1957b8625c6a",
+        "a2016c77-33c9-4bdf-9c14-90a70db60e5b",
+        "3f7a0525-ce67-4919-acb3-08cbfa79d074"
+      ]
+    },
+    "topic_1": {
+      "conversation_count": 12,
+      "percentage": 24.0,
+      "keywords": [
+        "app",
+        "create",
+        "using",
+        "use",
+        "project"
+      ],
+      "sample_conversations": [
+        "c3cf0563-48e0-4f59-aaea-93ac5bb352e5",
+        "44312dfa-b552-44a9-b714-f90d6bba9644",
+        "4bdfdcc5-0c4d-489b-b19b-d3059055e14c"
+      ]
+    },
+    "topic_4": {
+      "conversation_count": 14,
+      "percentage": 28.000000000000004,
+      "keywords": [
+        "se",
+        "eine",
+        "sein",
+        "website",
+        "nicht"
+      ],
+      "sample_conversations": [
+        "e904d6f7-f64a-42dd-b1a3-8973f84b0cc9",
+        "d813e415-654d-41a8-96ad-582e8c512ab7",
+        "0306c6f9-1ffe-40f0-9d35-325759510505"
+      ]
+    },
+    "topic_2": {
+      "conversation_count": 5,
+      "percentage": 10.0,
+      "keywords": [
+        "make",
+        "want",
+        "request",
+        "upload",
+        "css"
+      ],
+      "sample_conversations": [
+        "431f0827-7334-4b7b-9231-6eacd461eda2",
+        "00b1e9c3-9183-48d3-aa20-bc201fc2fab7",
+        "5ebc21f6-dc2d-417d-bf06-1a868ffdf05a"
+      ]
+    },
+    "topic_0": {
+      "conversation_count": 7,
+      "percentage": 14.000000000000002,
+      "keywords": [
+        "python",
+        "create",
+        "data",
+        "vjerovatno\u0107om kumulativni",
+        "uticaj kroz"
+      ],
+      "sample_conversations": [
+        "1fe55c4f-f604-4e7e-a8f0-56dd89816eef",
+        "b5308d4a-3f32-4e49-a70e-fc83f4c40248",
+        "03a29b14-2d6a-4d9e-861e-f42692f5937f"
+      ]
+    }
+  },
+  "message_types": {
+    "counts": {
+      "questions": 36,
+      "commands": 38,
+      "requests": 8,
+      "feedback": 1,
+      "general": 45
+    },
+    "percentages": {
+      "questions": 28.125,
+      "commands": 29.6875,
+      "requests": 6.25,
+      "feedback": 0.78125,
+      "general": 35.15625
+    },
+    "total_messages": 128
+  },
+  "detailed_clusters": {
+    "3": [
+      {
+        "chat_id": "ea704b7e-ec5e-4ec2-9a35-1957b8625c6a",
+        "preview": "i have data in this folder for snoring and non snoring and every folder have 790 audios and every audio is 10 seconds  now create and train a a model "
+      },
+      {
+        "chat_id": "a2016c77-33c9-4bdf-9c14-90a70db60e5b",
+        "preview": "Build a chat moderation pipeline to detect profanity and harmful text in messages. Use this kaggle dataset: mrmorj/hate-speech-and-offensive-language-"
+      },
+      {
+        "chat_id": "3f7a0525-ce67-4919-acb3-08cbfa79d074",
+        "preview": "create and train a model on data which learn snoring and non snoring perfectly like human later detect snoring and non snoring audio with perfection y"
+      },
+      {
+        "chat_id": "a1b743af-841d-49c5-8782-d9e615821add",
+        "preview": "Hello Review the or the entire directory actually very methodically and let me know what your take is make no changes So I understand that you're abou"
+      },
+      {
+        "chat_id": "b27d23c4-ce05-49e5-8527-4c5cf6d1d9bc",
+        "preview": "hi I want that you create a full project, in which you must train and evaluate a specular highlights / glares detector for ID cards (ID documents, Res"
+      },
+      {
+        "chat_id": "5a2bc78d-c6ad-448e-8d21-06fe7cf841d7",
+        "preview": "\u0642\u0645 \u0628\u0639\u0645\u0644 \u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0643\u0627\u0645\u0644 \u0645\u062a\u0643\u0627\u0645\u0644  \u062d\u0642\u064a\u0642\u064a 100%100 \u0648 \u0633\u0645\u064a\u0647 Genesis OS+ \u0637\u0648\u0631 \u0648\u062d\u0633\u0646\u0647 \u0627\u0644\u0649 \u0627\u0642\u0635\u0649 \u062d\u062f \u0648\u0627\u0636\u0641 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062a\u0627\u0644\u064a\u00a0 : \u062d\u0632\u0645\u0629 \u0627\u0648\u0641\u064a\u0633 \u0643\u0627\u0645\u0644\u0647 \u062f\u0648\u0646 \u0646\u0642\u0635 \u0648\u0627\u062d\u062f+ canva \u0645"
+      },
+      {
+        "chat_id": "fa024888-d1dc-44e4-8d41-f6171e130093",
+        "preview": "\u0642\u0645 \u0628\u0639\u0645\u0644 \u0646\u0638\u0627\u0645 \u062a\u0634\u063a\u064a\u0644 \u0643\u0627\u0645\u0644 \u0645\u062a\u0643\u0627\u0645\u0644  \u062d\u0642\u064a\u0642\u064a 100%100 \u0648 \u0633\u0645\u064a\u0647 Genesis OS+ \u0637\u0648\u0631 \u0648\u062d\u0633\u0646\u0647 \u0627\u0644\u0649 \u0627\u0642\u0635\u0649 \u062d\u062f \u0648\u0627\u0636\u0641 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062a\u0627\u0644\u064a\u00a0 : \u062d\u0632\u0645\u0629 \u0627\u0648\u0641\u064a\u0633 \u0643\u0627\u0645\u0644\u0647 \u062f\u0648\u0646 \u0646\u0642\u0635 \u0648\u0627\u062d\u062f+ canva \u0645"
+      },
+      {
+        "chat_id": "1198fac4-be50-42e2-82a8-e128626d4567",
+        "preview": "Hello, I wanted to ask you if you could make a section from my resume be ai detect free so that it can pass all ai detectors. Heres the section i need"
+      },
+      {
+        "chat_id": "d342c4ff-832f-4749-877e-4b96b45357d8",
+        "preview": "Hello, I wanted to ask you if you could make a section from my resume be ai detect free so that it can pass all ai detectors. Heres the section i need"
+      },
+      {
+        "chat_id": "0373ef69-087e-466b-8a4e-739a1cc9d203",
+        "preview": "Hello, I wanted to ask you if you could make a section from my resume be ai detect free so that it can pass all ai detectors. Heres the section i need"
+      },
+      {
+        "chat_id": "83952f11-e683-4b77-9caa-888638e13856",
+        "preview": "# **Product Requirements Document**\n## **DR Rokkam Medical Coding AI Platform**\n### **Local Deployment Edition**\n\n***\n\n**Version:** 3.0 (Local Agentic"
+      },
+      {
+        "chat_id": "2e95e3c1-f8e7-46ef-ba2e-2bcb16c0e062",
+        "preview": "I want you to give me a 1 to of Neo ai engineer make it 1 to 1 of you I want a 1of 1 of you Neo ai engineer I want you to make an al that can make any"
+      }
+    ],
+    "1": [
+      {
+        "chat_id": "c3cf0563-48e0-4f59-aaea-93ac5bb352e5",
+        "preview": "build a app for finace and savings"
+      },
+      {
+        "chat_id": "44312dfa-b552-44a9-b714-f90d6bba9644",
+        "preview": "{\r\n  \"exam_paper\": {\r\n    \"language\": \"Sinhala\",\r\n    \"subject\": \"Information and Communication Technology\",\r\n    \"questions\": [\r\n      {\r\n        \"qu"
+      },
+      {
+        "chat_id": "4bdfdcc5-0c4d-489b-b19b-d3059055e14c",
+        "preview": "How you help with on a datawarehouse project for a retail business? Data modelling and etl. We\u2019re using medallion architecture Data modelling and etl."
+      },
+      {
+        "chat_id": "8c30a490-1b0a-4a5f-9542-211fb5b7010b",
+        "preview": "Create a prompt template manager that stores reusable prompts with variables. Allow users to fill in placeholders and generate complete prompts for di"
+      },
+      {
+        "chat_id": "095e27c0-9f43-4c46-b6ba-8aa81c22aabf",
+        "preview": "Here is the **COMPLETE, CONTINUOUS GOD PROMPT**.\r\n\r\nI have consolidated **Part 1, Part 2, Part 3, and Part 4** into a single block. You can copy this "
+      },
+      {
+        "chat_id": "96b83a20-dfc9-4911-bae0-49c1d6068402",
+        "preview": "Build a complete, functional no-code mobile and web app called \"aperture link\" \u2013 a worldwide freelance marketplace connecting photographers, videograp"
+      },
+      {
+        "chat_id": "318efe9f-e13a-4840-b9b0-10a68c60986a",
+        "preview": "Project Goal: Build a native iOS app in Swift that enables simultaneous, synchronized music playback across Sonos S1 and Sonos S2 systems from a singl"
+      },
+      {
+        "chat_id": "c7875099-76e2-40f6-b9d9-670b453df00c",
+        "preview": "Give me 5 ideas that you can accomplish and automate 90+% for me to earn/generate income of 100-1000$/day."
+      },
+      {
+        "chat_id": "7bb5fad6-df7a-46f7-9902-10b0fe3657d1",
+        "preview": "Create me an African-focused investment platform that offers ROI of 75% hourly and 750% in 10 hours"
+      },
+      {
+        "chat_id": "13730c6e-94be-4ffb-bd80-86ef200b45eb",
+        "preview": "Skip to content\r\nYou said:\r\na fully detailed and fully fuctional shop inventry for unlimited entries and email login, modren look and also for QR code"
+      },
+      {
+        "chat_id": "60cd129f-8f53-4d5d-813b-6a29b464a9cb",
+        "preview": "now create professional advance application using attached md files in folder  use best ML process to design and create a same. company logo to be use"
+      },
+      {
+        "chat_id": "17fdba2b-706c-4f21-b403-75e394eb71f1",
+        "preview": "show the app preview"
+      }
+    ],
+    "4": [
+      {
+        "chat_id": "e904d6f7-f64a-42dd-b1a3-8973f84b0cc9",
+        "preview": "I want a Programm that can generate relaxing  music or some music to read to chill to drink coffee and make it with a nice moving picture ready to upl"
+      },
+      {
+        "chat_id": "d813e415-654d-41a8-96ad-582e8c512ab7",
+        "preview": "Can you write a novel? Novel should have adult genera with spicy and vulgar things Where is the novel?? Write the novel here no code needed Where is i"
+      },
+      {
+        "chat_id": "0306c6f9-1ffe-40f0-9d35-325759510505",
+        "preview": "me shkruaj nje kod per kete website:\nPROMPT\n\nNd\u00ebrto nj\u00eb website modern, seksi dhe premium p\u00ebr nj\u00eb kompani peshku dhe prodhimesh deti me emrin Marfish."
+      },
+      {
+        "chat_id": "4748cbef-c16b-4eb6-b780-08c4a192dec0",
+        "preview": "David Benioff, 1970 in New York City geboren, stammt aus einer j\u00fcdischen Familie, deren Kriegserfahrungen sein Schreiben nachhaltig pr\u00e4gen. Nach einem"
+      },
+      {
+        "chat_id": "04054d3b-e805-446d-b83c-153a945d8f48",
+        "preview": "David Benioff, 1970 in New York City geboren, stammt aus einer j\u00fcdischen Familie, deren Kriegserfahrungen sein Schreiben nachhaltig pr\u00e4gen. Nach einem"
+      },
+      {
+        "chat_id": "44c3ae47-39b1-494e-b58c-1c8da87ee39e",
+        "preview": "quiero crear un programa q al colocar q se vendio 1 mojito de 1 litro por ejemplo, se descuente automaticamente 33 porciento de 1 limon, 1 pulpa de fr"
+      },
+      {
+        "chat_id": "d03270ce-f32e-481c-b51d-8dc1571f7fb9",
+        "preview": "quiero crear un programa q al colocar q se vendio 1 mojito de 1 litro por ejemplo, se descuente automaticamente 33 porciento de 1 limon, 1 pulpa de fr"
+      },
+      {
+        "chat_id": "fcda0aa6-6c6f-4267-946b-12aa3d8e2f27",
+        "preview": "voglio creare una applicazione android di base, usando la programmazione nativa, per memorizzare note di testo tramite una api ospitata sul mio server"
+      },
+      {
+        "chat_id": "7621bf45-8000-4dbf-9f35-3c208552a969",
+        "preview": "quiero crear un programa q al colocar q se vendio 1 mojito de 1 litro por ejemplo, se descuente automaticamente 33 porciento de 1 limon, 1 pulpa de fr"
+      },
+      {
+        "chat_id": "217ad9ea-1f0e-4d55-b0a4-e132046ae8ca",
+        "preview": "ich m\u00f6chte dass du mir eine website baust, wo die daten nicht in amerika sondern im besten fall in deutschland gespeichert werden, au\u00dferdem muss sie s"
+      },
+      {
+        "chat_id": "eabb22e2-9631-4699-8843-fbee51550b0a",
+        "preview": "ich m\u00f6chte dass du mir eine website baust, wo die daten nicht in amerika sondern im besten fall in deutschland gespeichert werden, au\u00dferdem muss sie s"
+      },
+      {
+        "chat_id": "841b59d9-9d6c-4bad-9943-9e88131919a0",
+        "preview": "ich m\u00f6chte dass du mir eine website baust, wo die daten nicht in amerika sondern im besten fall in deutschland gespeichert werden, au\u00dferdem muss sie s"
+      },
+      {
+        "chat_id": "37da5fe5-fb02-4fe4-b0cd-10862550d9ff",
+        "preview": "\u0627\u0628\u0646 \u062a\u0637\u0628\u064a\u0642 \u0648\u064a\u0628 \u0644\u0625\u062f\u0627\u0631\u0629 \u0645\u0648\u0627\u0642\u0639 \u0648\u0648\u0631\u062f\u0628\u0631\u0633 \u0644\u0644\u0632\u0628\u0627\u0626\u0646"
+      },
+      {
+        "chat_id": "cbd24d0e-5828-4841-a6df-a5f9929670be",
+        "preview": "leier inejctet er sich nicht f\u00fcge alle aktuellen Fivem offsets ein damit er in jeder vesion injectet"
+      }
+    ],
+    "2": [
+      {
+        "chat_id": "431f0827-7334-4b7b-9231-6eacd461eda2",
+        "preview": "I want you to make a game like fruit ninja. For iOS Nice relaxing music. Make some challenges for everyday. Scores and beat your I want the app ready "
+      },
+      {
+        "chat_id": "00b1e9c3-9183-48d3-aa20-bc201fc2fab7",
+        "preview": "can you make me a website for a barber did you do css? it does not work i dont see the css make another make another that is simple"
+      },
+      {
+        "chat_id": "5ebc21f6-dc2d-417d-bf06-1a868ffdf05a",
+        "preview": "Train a model for movie recommendation system. Use Movielens dataset."
+      },
+      {
+        "chat_id": "fa7cb162-e8e9-478a-a4b6-040d5f544a72",
+        "preview": "I have websites i wanna add games"
+      },
+      {
+        "chat_id": "34e8f762-7944-4551-901f-ca168da9dc97",
+        "preview": "hi if i provide you a request and i want you to test file upload bypasses on the request and goal is to upload  a .php it is a bug bounty inscope targ"
+      }
+    ],
+    "0": [
+      {
+        "chat_id": "1fe55c4f-f604-4e7e-a8f0-56dd89816eef",
+        "preview": "Both chatpgp and claude can re-create PoC cve-2026-21509 let me try to see if you able to do this quickly\r\n\r\nCreate a python script that delivers a Ex"
+      },
+      {
+        "chat_id": "b5308d4a-3f32-4e49-a70e-fc83f4c40248",
+        "preview": "Evo koda koji simulira tvoj STATCORE \"Truth Engine\". Skripta izra\u010dunava ROI sa tvojim HDI intervalom (vjerovatno\u0107om) i kumulativni CO2 uticaj kroz 10 "
+      },
+      {
+        "chat_id": "03a29b14-2d6a-4d9e-861e-f42692f5937f",
+        "preview": "Evo koda koji simulira tvoj STATCORE \"Truth Engine\". Skripta izra\u010dunava ROI sa tvojim HDI intervalom (vjerovatno\u0107om) i kumulativni CO2 uticaj kroz 10 "
+      },
+      {
+        "chat_id": "9a6dddca-ac0d-4d42-bf50-4a8430b5383a",
+        "preview": "I want you to perform EDA on train.csv. The data is realted to heart disease. Where 'Heart Disease' column is the binary target. In the EDA, please al"
+      },
+      {
+        "chat_id": "0e0eb60e-4c2f-451a-b2ef-78a71a1ee21d",
+        "preview": "1. Project Directory Structure\nCreate a folder named topstep_fvg_bot and set up this exact structure:\n\nPlaintext\ntopstep_fvg_bot/\n\u2502\n\u251c\u2500\u2500 .env          "
+      },
+      {
+        "chat_id": "b929907d-ba74-48c6-aa4e-d8b0d4f002f1",
+        "preview": "## Phase 1 \u2013 Build an alpha lab dataset from OOS results\n\n**Task 1 \u2013 Construct a unified alpha-analysis table**  \n\"Using `data/validation_outputs/resu"
+      },
+      {
+        "chat_id": "eb6b3651-675f-40db-8685-a2e0c1689379",
+        "preview": "**1. Strengthen statistical edge & validation**\n- \"Scan this repo and design a rigorous walk\u2011forward validation plan for my forecasting system, includ"
+      }
+    ]
+  }
+}
