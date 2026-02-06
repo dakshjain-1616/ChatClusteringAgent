@@ -1,0 +1,1 @@
+cat /root/chatClusteringTool/output/analysis_report.txt

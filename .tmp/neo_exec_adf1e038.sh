@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && timeout 300 /usr/bin/python3 main.py --input last_50_chats.json --output output_test

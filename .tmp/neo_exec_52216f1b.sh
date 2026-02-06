@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && /usr/bin/python3 main.py --input large_dataset_5000.json --output output_large 2>&1 | grep -E "INFO|samples|MiniBatch|Cluster [0-9]+:" | head -100

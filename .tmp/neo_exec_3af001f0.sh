@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && rm -f cleanup_test_artifacts.py

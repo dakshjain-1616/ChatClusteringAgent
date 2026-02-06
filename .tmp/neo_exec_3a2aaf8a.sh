@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && timeout 600 /usr/bin/python3 main.py --input large_dataset_5000.json --output output_large_final 2>&1 | tail -50

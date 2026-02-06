@@ -1,0 +1,1 @@
+cat /root/chatClusteringTool/output/clustered_data.json | /usr/bin/python3 -c "import json, sys; data=json.load(sys.stdin); print('Metadata:', json.dumps(data['metadata'], indent=2)); print('\nFirst Chat Cluster Info:'); [print(f\"Cluster {k}: {v['domain']} (n={v['size']}, conf={v['confidence']:.3f})\") for k,v in sorted(data['first_chat_analysis']['cluster_info'].items())]"

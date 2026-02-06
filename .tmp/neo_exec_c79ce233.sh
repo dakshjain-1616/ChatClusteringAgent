@@ -1,0 +1,2 @@
+[ -d "/root/chatClusteringTool/venv" ] || /usr/bin/python3 -m venv /root/chatClusteringTool/venv
+source /root/chatClusteringTool/venv/bin/activate && pip install -q sentence-transformers scikit-learn matplotlib numpy pandas

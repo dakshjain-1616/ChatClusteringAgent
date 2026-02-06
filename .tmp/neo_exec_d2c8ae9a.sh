@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && /root/chatClusteringTool/venv/bin/python main.py

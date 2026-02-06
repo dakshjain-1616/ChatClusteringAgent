@@ -1,0 +1,1 @@
+grep -n "def create_scatter_plot" /root/chatClusteringTool/src/visualize.py | head -5

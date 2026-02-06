@@ -1,0 +1,1 @@
+ps aux | grep -E "python3.*main.py" | grep -v grep || echo "No main.py process running"

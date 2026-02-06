@@ -1,0 +1,1 @@
+/usr/bin/python3 -c "import json; data=json.load(open('/root/chatClusteringTool/output/clustered_data.json')); print(f'Total conversations: {len(data)}'); print(f'Sample entry keys: {list(data[0].keys())}'); print(f'Sample cluster assignment: Cluster {data[0][\"first_chat_cluster\"]} - {data[0][\"first_chat_label\"]}')"

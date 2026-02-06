@@ -1,0 +1,3 @@
+cat /root/chatClusteringTool/output/analysis_report.txt
+ls -lh /root/chatClusteringTool/output/
+/usr/bin/python3 -c "import json; data=json.load(open('/root/chatClusteringTool/output/clustered_data.json')); print(f'First chat conversations: {len(data[\"first_chat_analysis\"][\"conversations\"])}'); print(f'Full history conversations: {len(data[\"full_history_analysis\"][\"conversations\"])}'); print(f'Sample conversation with cluster: {data[\"first_chat_analysis\"][\"conversations\"][0]}'); print(f'Metadata: {data[\"metadata\"]}')"

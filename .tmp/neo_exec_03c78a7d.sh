@@ -1,0 +1,1 @@
+ls -lh /root/chatClusteringTool/output_large/ 2>/dev/null && echo "=== Large dataset output ready ===" || echo "=== Large dataset still processing ==="

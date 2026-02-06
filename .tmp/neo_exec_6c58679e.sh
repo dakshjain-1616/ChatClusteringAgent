@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && /usr/bin/python3 main.py --help

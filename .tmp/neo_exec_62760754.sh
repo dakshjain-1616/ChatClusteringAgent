@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && tail -f /dev/null & sleep 180 && /usr/bin/python3 -c "import os; print('Checking large dataset output...'); os.system('ls -la /root/chatClusteringTool/output_large/')" 2>&1

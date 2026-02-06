@@ -1,0 +1,2 @@
+cd /root/chatClusteringTool && ls -lh output_large/ 2>/dev/null | head -20
+cat /root/chatClusteringTool/output_original/clustered_data.json | /usr/bin/python3 -c "import json, sys; data=json.load(sys.stdin); print(f'First chat: {len(data[\"first_chat_analysis\"][\"conversations\"])} convs'); print(f'Clusters: {data[\"first_chat_analysis\"][\"num_clusters\"]}'); print('Sample conv has cluster_id:', 'cluster_id' in data['first_chat_analysis']['conversations'][0])"

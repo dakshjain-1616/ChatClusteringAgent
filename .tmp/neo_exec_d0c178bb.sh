@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && /usr/bin/python3 main.py --input last_50_chats.json --output output_test 2>&1 | grep -E "INFO|Cluster|Error|SUCCESS" | head -50

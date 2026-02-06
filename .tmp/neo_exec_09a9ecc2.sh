@@ -1,0 +1,1 @@
+/root/chatClusteringTool/venv/bin/pip install transformers torch --quiet

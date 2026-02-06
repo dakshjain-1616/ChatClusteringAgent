@@ -1,0 +1,1 @@
+source /root/chatClusteringTool/venv/bin/activate && /usr/bin/python3 /root/chatClusteringTool/main.py

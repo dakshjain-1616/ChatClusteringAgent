@@ -1,0 +1,1 @@
+cat /root/chatClusteringTool/last_50_chats.json | head -100

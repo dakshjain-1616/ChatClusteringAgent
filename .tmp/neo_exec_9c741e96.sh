@@ -1,0 +1,1 @@
+cd /root/chatClusteringTool && find . -maxdepth 2 -name "__pycache__" -o -name "output*" -o -name "final_verification" 2>/dev/null | grep -v "./venv"

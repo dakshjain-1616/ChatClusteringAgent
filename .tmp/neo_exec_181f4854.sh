@@ -1,0 +1,1 @@
+tail -80 /root/chatClusteringTool/output/analysis_report.txt
